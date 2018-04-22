@@ -1,2 +1,2 @@
 # DB-Engine
-XQuery database engine design Using Java
+XQuery database engine design using Java
